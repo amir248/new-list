@@ -15,3 +15,12 @@ main{
   max-width: 100%;
   flex-direction: column;
 }
+
+.newElement{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  width:900px;
+  font-size: 20px;
+}
